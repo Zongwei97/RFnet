@@ -4,8 +4,16 @@ This is the official implementation of Robust RGB-D Fusion network for Saliency 
 
 
 # Citation
+
+If you find this repo useful, please consider citing:
+
 ```
-sss
+@article{wu2022robust,
+  title={Robust RGB-D Fusion for Saliency Detection},
+  author={Wu, Zongwei and Gobichettipalayam, Shriarulmozhivarman and Tamadazte, Brahim and Allibert, Guillaume and Paudel, Danda Pani and Demonceaux, C{\'e}dric},
+  journal={3DV},
+  year={2022}
+}
 ```
 
 # Acknowledgments
