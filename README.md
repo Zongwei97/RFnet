@@ -5,5 +5,5 @@ This is the official implementation of Robust RGB-D Fusion network for Saliency 
 
 
 
-# Ac
+# Acknowledgments
 This repository is heavily based on [SPnet](https://github.com/taozh2017/SPNet). 
