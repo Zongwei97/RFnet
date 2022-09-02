@@ -17,4 +17,4 @@ If you find this repo useful, please consider citing:
 ```
 
 # Acknowledgments
-This repository is heavily based on [SPnet](https://github.com/taozh2017/SPNet). 
+This repository is heavily based on [SPnet](https://github.com/taozh2017/SPNet). Thanks to their great work!
