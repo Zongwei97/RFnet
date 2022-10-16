@@ -5,7 +5,7 @@ import sys
 import numpy as np
 from datetime import datetime
 from torchvision.utils import make_grid
-from Code.lib.model_RAFNet import RAFNet
+from Code.lib.model_RAFNet import RFNet
 from Code.utils.data import get_loader,test_dataset
 from Code.utils.utils import clip_gradient, adjust_lr
 from tensorboardX import SummaryWriter
@@ -23,7 +23,7 @@ print('USE GPU {}'.format(opt.gpu_id))
 cudnn.benchmark = True
 
 #build the model
-model = RAFNet(32,50)
+model = RFNet(32,50)
 if(opt.load is not None):
     model.load_state_dict(torch.load(opt.load))
     print('load model from ',opt.load)
