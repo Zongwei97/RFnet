@@ -1,6 +1,6 @@
 # RFnet
 
-This is the official implementation of Robust RGB-D Fusion network for Saliency Detection, 3DV 2022
+This is the official implementation of [Robust RGB-D Fusion network for Saliency Detection](https://arxiv.org/pdf/2208.01762.pdf), 3DV 2022
 
 
 # Citation
