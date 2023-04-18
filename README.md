@@ -4,7 +4,7 @@ This is the official implementation of [Robust RGB-D Fusion network for Saliency
 
 # Saliency Maps
 
-The saliency maps can be downloaded here: [Google](https://drive.google.com/file/d/1efZfbZ11L2cBs5Mwnt1awwHjFuiy-1DQ/view?usp=sharing)
+The saliency maps can be downloaded here: [Google Drive](https://drive.google.com/file/d/1efZfbZ11L2cBs5Mwnt1awwHjFuiy-1DQ/view?usp=sharing)
 
 # Citation
 
