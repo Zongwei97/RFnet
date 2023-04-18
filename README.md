@@ -21,6 +21,9 @@ python run_RFNet.py
 
 The saliency maps can be downloaded here: [Google Drive](https://drive.google.com/file/d/1efZfbZ11L2cBs5Mwnt1awwHjFuiy-1DQ/view?usp=sharing)
 
+![Qualitative Comparison](https://github.com/Zongwei97/RFnet/blob/main/Imgs/qualitative.png)
+
+
 # Citation
 
 If you find this repo useful, please consider citing:
