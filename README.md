@@ -2,6 +2,11 @@
 
 This is the official implementation of [Robust RGB-D Fusion network for Saliency Detection](https://arxiv.org/pdf/2208.01762.pdf), 3DV 2022
 
+# Abstract
+
+Efficiently exploiting multi-modal inputs for accurate RGB-D saliency detection is a topic of high interest. Most existing works leverage cross-modal interactions to fuse the two streams of RGB-D for intermediate features' enhancement. In this process, a practical aspect of the low quality of the available depths has not been fully considered yet. In this work, we aim for RGB-D saliency detection that is robust to the low-quality depths which primarily appear in two forms: inaccuracy due to noise and the misalignment to RGB.  To this end, we propose a robust RGB-D fusion method that benefits from  (1) layer-wise, and (2) trident spatial, attention mechanisms. On the one hand, layer-wise attention (LWA) learns the trade-off between early and late fusion of RGB and depth features, depending upon the depth accuracy. On the other hand, trident spatial attention (TSA) aggregates the features from a wider spatial context to address the depth misalignment problem. 
+The proposed LWA and TSA mechanisms allow us to efficiently exploit the multi-modal inputs for saliency detection while being robust against low-quality depths. Our experiments on five benchmark datasets demonstrate that the proposed fusion method performs consistently better than the state-of-the-art fusion alternatives. 
+
 ![Graphical Abstract](https://github.com/Zongwei97/RFnet/blob/main/Imgs/3dvmodel.pdf)
 # Train and Test
 
