@@ -21,12 +21,16 @@ The saliency maps can be downloaded here: [Google Drive](https://drive.google.co
 If you find this repo useful, please consider citing:
 
 ```
-@inprocessing{wu2022robust,
-  title={Robust RGB-D Fusion for Saliency Detection},
-  author={Wu, Zongwei and Gobichettipalayam, Shriarulmozhivarman and Tamadazte, Brahim and Allibert, Guillaume and Paudel, Danda Pani and Demonceaux, C{\'e}dric},
-  booktitle={3DV},
-  year={2022}
-}
+@INPROCEEDINGS{wu2022robust,
+  author={Wu, Zongwei and Gobichettipalayam, Shriarulmozhivarman and Tamadazte, Brahim and Allibert, Guillaume and Paudel, Danda Pani and Demonceaux, Cédric},
+  booktitle={2022 International Conference on 3D Vision (3DV)}, 
+  title={Robust RGB-D Fusion for Saliency Detection}, 
+  year={2022},
+  volume={},
+  number={},
+  pages={403-413},
+  doi={10.1109/3DV57658.2022.00052}}
+  
 ```
 
 
