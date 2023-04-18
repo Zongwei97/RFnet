@@ -2,6 +2,7 @@
 
 This is the official implementation of [Robust RGB-D Fusion network for Saliency Detection](https://arxiv.org/pdf/2208.01762.pdf), 3DV 2022
 
+![Graphical Abstract](https://github.com/Zongwei97/RFnet/blob/main/Imgs/3dvmodel.pdf)
 # Train and Test
 
 One key: 
@@ -20,10 +21,10 @@ The saliency maps can be downloaded here: [Google Drive](https://drive.google.co
 If you find this repo useful, please consider citing:
 
 ```
-@article{wu2022robust,
+@inprocessing{wu2022robust,
   title={Robust RGB-D Fusion for Saliency Detection},
   author={Wu, Zongwei and Gobichettipalayam, Shriarulmozhivarman and Tamadazte, Brahim and Allibert, Guillaume and Paudel, Danda Pani and Demonceaux, C{\'e}dric},
-  journal={3DV},
+  booktitle={3DV},
   year={2022}
 }
 ```
