@@ -2,6 +2,15 @@
 
 This is the official implementation of [Robust RGB-D Fusion network for Saliency Detection](https://arxiv.org/pdf/2208.01762.pdf), 3DV 2022
 
+# Train and Test
+
+One key: 
+
+```
+python run_RFNet.py
+```
+
+
 # Saliency Maps
 
 The saliency maps can be downloaded here: [Google Drive](https://drive.google.com/file/d/1efZfbZ11L2cBs5Mwnt1awwHjFuiy-1DQ/view?usp=sharing)
